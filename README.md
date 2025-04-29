@@ -77,7 +77,3 @@ You can test the API using the Thunder Client in VS Code, Postman, or Insomnia b
 2. Use the `access` token in the `Authorization` header to make requests to other endpoints like `/api/bookings/` and `/api/menu/`.
 
 ---
-
-### GitHub Repository
-[Your GitHub Repository URL]
-
